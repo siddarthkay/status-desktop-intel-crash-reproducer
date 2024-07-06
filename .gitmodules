@@ -1,0 +1,3 @@
+[submodule "status-keycard-go"]
+	path = status-keycard-go
+	url = https://github.com/status-im/status-keycard-go.git
